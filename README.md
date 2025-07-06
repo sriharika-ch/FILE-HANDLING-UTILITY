@@ -41,3 +41,7 @@ File handling is a critical concept in programming with widespread applications 
 4.Importance of code documentation and modular programming
 
 This task not only helped me solidify my Java basics but also demonstrated how something as fundamental as file handling is key to building efficient and user-friendly software. It has laid the groundwork for more advanced topics such as file encryption, binary file handling, and data serialization in future tasks.
+
+OUTPUT : 
+
+<img width="631" height="327" alt="Image" src="https://github.com/user-attachments/assets/de8d01e5-e14d-4923-8bb1-e7139fc24e1c" />
